@@ -1,4 +1,4 @@
-alert("are we connected");
+
 
 let button = document.querySelector("button");
 
